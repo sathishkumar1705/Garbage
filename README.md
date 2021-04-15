@@ -1,2 +1,2 @@
 # Garbage
-Simple single page template
+Simple single page template for Hospital
